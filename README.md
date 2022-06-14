@@ -3,12 +3,14 @@
 ### To establish the most successful launch for a crowdfund campaign for new Theatrical Play production based on launch date and funding goals
 
 ## Analysis and Challenges
-### Outcomes by date ![This is an image](/assets/images/Theater_Outcomes_vs_Launch.png)
+Ascertaining how different play campaigns succeeded or failed in relation to launch dates and funding goals. Then I created charts for outcomes based on data provided as a visual summary. Recorded findings and suggestions for best possible outcome of future theatrical campaign funding. 
 
-###  Outcomes by goal ![This is an image](/assets/images/Outcomes_vs_Goals.png)
+### Outcomes by date ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/106544424/173691145-7ba1ee5d-d0f4-492f-8f95-03dbfcdc679e.png)
+
+###  Outcomes by goal ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/106544424/173691054-8dec8e61-f80d-4953-ab13-a06657f4dfce.png)
 
 ### Challenges/Difficulties:
-* Challenge of charting goal outcomes due to function application frustrations. As that hurdle was overcome other pieces were swiftly corrected to obtain a clean chart.
+* Challenge of charting goal outcomes due to function application frustrations. As that hurdle was overcome other dataset pieces were swiftly corrected to obtain clean visuals.
 
 ## Results: 
 _Conclusions of Outcome by Date:_
