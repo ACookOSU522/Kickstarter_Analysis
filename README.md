@@ -15,7 +15,7 @@ Ascertaining how different play campaigns succeeded or failed in relation to lau
 ## Results: 
 _Conclusions of Outcome by Date:_
 * Most successful March-May with peak success April/May. Suggesting early spring is peak campaign launch time. 
-*High failure rate in October, would not recommend starting a campaign in fall.
+* High failure rate in October, would not recommend starting a campaign in fall.
 
 _Conclusions of Outcome by Goal:_
 * Most successful campaign goal in dual points, in $1,000-4,999 range and in $40,000-44,999 range. Smaller budget	performances, and upper-middle budget performances appear to be best at gathering donations for future play projects.  
